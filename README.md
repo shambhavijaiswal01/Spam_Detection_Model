@@ -1,6 +1,4 @@
-This README is designed based on the typical structure of NLP-based spam detection repositories (like the one you linked), which usually involve Python, Scikit-Learn, and NLTK for text preprocessing.
 
----
 
 # Spam Detection Model 📧🚫
 
